@@ -12,4 +12,4 @@ By Dinesh Bana
 
 ![badge](https://img.shields.io/badge/Law%20Home%20Page-HTML%20%26%20CSS-yellowgreen)
 
-## Project Link: [My Website](https://crypto-webpage.netlify.app/)
+## Project Link: [My Website](https://law-home-webpage.netlify.app/)
